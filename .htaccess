@@ -1,0 +1,2 @@
+RewriteEngine On
+RewriteRule (.*) /laravel.blog/laravel/public/$1 [L]
